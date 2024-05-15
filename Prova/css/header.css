@@ -1,0 +1,22 @@
+header
+{
+width: 100%;
+display: flex;
+justify-content: space-around;
+}
+
+h1
+{
+    margin: 1rem;
+}
+
+.cabesario
+{
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    background-color: black;;
+}
+
+
+
